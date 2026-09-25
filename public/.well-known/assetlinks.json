@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.instaindia.social.app",
+      "sha256_cert_fingerprints": [
+        "14:6D:E9:7F:02:9A:8B:2A:43:2B:65:42:86:1B:54:32:89:12:35:67:89:AB:CD:EF:01:23:45:67:89:AB:CD:EF"
+      ]
+    }
+  }
+]

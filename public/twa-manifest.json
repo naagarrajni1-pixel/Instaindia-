@@ -1,0 +1,43 @@
+{
+  "packageId": "com.instaindia.social.app",
+  "host": "ais-dev-kplyhlw45b2kgtevyuold5-762814726560.asia-southeast1.run.app",
+  "name": "InstaIndia",
+  "launcherName": "InstaIndia",
+  "themeColor": "#FF671F",
+  "navigationColor": "#08080C",
+  "backgroundColor": "#08080C",
+  "enableNotifications": true,
+  "startUrl": "/",
+  "iconUrl": "/src/assets/images/instaindia_holi_celebration_1790315680476.jpg",
+  "maskableIconUrl": "/src/assets/images/instaindia_holi_celebration_1790315680476.jpg",
+  "appVersionCode": 10001,
+  "appVersionName": "1.0.1",
+  "shortcuts": [
+    {
+      "name": "Reels",
+      "shortName": "Reels",
+      "url": "/#reels"
+    },
+    {
+      "name": "Explore",
+      "shortName": "Explore",
+      "url": "/#explore"
+    },
+    {
+      "name": "Monetize",
+      "shortName": "Earn",
+      "url": "/#earn"
+    }
+  ],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {
+    "locationDelegation": {
+      "enabled": true
+    },
+    "playBilling": {
+      "enabled": true
+    }
+  }
+}

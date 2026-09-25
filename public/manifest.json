@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "InstaIndia — Vibrant Tricolour Social App",
+  "short_name": "InstaIndia",
+  "description": "Bharat's most vibrant social network with Tricolour branding, 4K Reels, colorful stories, and Creator Monetization.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#FF671F",
+  "background_color": "#08080C",
+  "icons": [
+    {
+      "src": "/src/assets/images/instaindia_holi_celebration_1790315680476.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/src/assets/images/instaindia_jaipur_hawa_mahal_1790315697763.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/src/assets/images/instaindia_holi_celebration_1790315680476.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["social", "entertainment", "photography"]
+}
